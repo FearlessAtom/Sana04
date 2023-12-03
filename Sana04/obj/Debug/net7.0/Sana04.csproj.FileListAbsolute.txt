@@ -1,0 +1,14 @@
+C:\Users\357\Desktop\Sana04\Sana04\bin\Debug\net7.0\Sana04.exe
+C:\Users\357\Desktop\Sana04\Sana04\bin\Debug\net7.0\Sana04.deps.json
+C:\Users\357\Desktop\Sana04\Sana04\bin\Debug\net7.0\Sana04.runtimeconfig.json
+C:\Users\357\Desktop\Sana04\Sana04\bin\Debug\net7.0\Sana04.dll
+C:\Users\357\Desktop\Sana04\Sana04\bin\Debug\net7.0\Sana04.pdb
+C:\Users\357\Desktop\Sana04\Sana04\obj\Debug\net7.0\Sana04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\357\Desktop\Sana04\Sana04\obj\Debug\net7.0\Sana04.AssemblyInfoInputs.cache
+C:\Users\357\Desktop\Sana04\Sana04\obj\Debug\net7.0\Sana04.AssemblyInfo.cs
+C:\Users\357\Desktop\Sana04\Sana04\obj\Debug\net7.0\Sana04.csproj.CoreCompileInputs.cache
+C:\Users\357\Desktop\Sana04\Sana04\obj\Debug\net7.0\Sana04.dll
+C:\Users\357\Desktop\Sana04\Sana04\obj\Debug\net7.0\refint\Sana04.dll
+C:\Users\357\Desktop\Sana04\Sana04\obj\Debug\net7.0\Sana04.pdb
+C:\Users\357\Desktop\Sana04\Sana04\obj\Debug\net7.0\Sana04.genruntimeconfig.cache
+C:\Users\357\Desktop\Sana04\Sana04\obj\Debug\net7.0\ref\Sana04.dll
